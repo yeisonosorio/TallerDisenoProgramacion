@@ -4,7 +4,7 @@ Taller de diseño y programación: Abstracciones, interfaces y polimorfismo
 
 #Para el correcto funcionamiento se recomienta el IDE 
 
-#Intellij idea
+#Intellij
 #JDK 17
 
 #El siguiente enlace podran ver la informacion mas detallada del contexto de las naves del software
